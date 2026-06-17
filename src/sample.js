@@ -12,5 +12,5 @@ export const TestComponent = () => {
          <button onClick={handleClick}>Increment</button>
         
         </>
-    )}
+    )
 }
