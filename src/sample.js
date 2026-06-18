@@ -8,7 +8,7 @@ export const TestComponent = () => {
     return (
         <>
          <h2> Welcome to react app  </h2>
-         <h2>{count}</h2>}
+         <h2>{count}</h2>}}
          <button onClick={handleClick}>Increment</button>
         
         </>
